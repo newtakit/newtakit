@@ -3,7 +3,7 @@
     <!-- คอลัมน์ข้อความ -->
     <td width="50%" align="left">
       <p>
-        Hi Takit<br>
+        Hi dude <br>
         Welcome to my GitHub profile!<br>
         I am passionate about Python programming, specializing in Web Automation, Web Scraping, Multiprocessing, and ETL (Extract, Transform, Load).<br>
         
