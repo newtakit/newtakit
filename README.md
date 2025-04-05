@@ -15,7 +15,7 @@
     <!-- คอลัมน์รูป DevCard -->
     <td width="50%" align="right">
       <a href="https://app.daily.dev/newtakit">
-        <img src="https://api.daily.dev/devcards/v2/5Q6UyyyIQhPY9KJLGAziz.png?r=nwx" width="356" alt="new.takit's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/5Q6UyyyIQhPY9KJLGAziz.png?type=default&r=u7r" width="356" alt="new.takit's Dev Card" width="356" alt="new.takit's Dev Card"/>
       </a>
     </td>
   </tr>
