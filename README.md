@@ -3,7 +3,7 @@
     <!-- คอลัมน์ข้อความ -->
     <td width="50%" align="left">
       <p>
-        Hi dude <br>
+        Hi dude :seedling: <br>
         Welcome to my GitHub profile!<br>
         I am passionate about Python programming, specializing in Web Automation, Web Scraping, Multiprocessing, and ETL (Extract, Transform, Load).<br>
         
@@ -20,6 +20,10 @@
     </td>
   </tr>
 </table>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newtakit&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtakit&layout=compact)
+
+
 
 #### I have hands-on experience with
 
