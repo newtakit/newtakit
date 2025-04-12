@@ -37,7 +37,7 @@
 
 #### Contact
 
-- Email 
+- Email : new.takitthumrong@gmail.com 
 - Social 
   
 
