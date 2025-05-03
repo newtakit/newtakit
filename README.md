@@ -38,7 +38,7 @@
 #### Contact
 
 - Email : new.takitthumrong@gmail.com 
-- Social 
+- Social : in/takit-takit-02496432b
   
 
 
